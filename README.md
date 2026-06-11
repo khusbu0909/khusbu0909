@@ -1,16 +1,31 @@
-## Hi there 👋
+PRODIGY Cyber Security Internship
+PRODIGY_CS_01
+Task 01 - Caesar Cipher
+This project implements Caesar Cipher encryption and decryption using Python.
 
-<!--
-**khusbu0909/khusbu0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Features
+Encrypt messages
+Decrypt messages
+User input support
+How to Run
+python caesar_cipher.py
+Example
+Input:
+ Message: HELLO
+ Shift Value: 3
+Output:
+ Encrypted Message: KHOOR
+ Decrypted Message: HELLO
+Concept
+The Caesar Cipher works by shifting each letter in the message by a fixed number of positions in the alphabet.
 
-Here are some ideas to get you started:
+Example with shift value 3:
+ A → D
+ B → E
+ C → F
+Technology Used
+Python
+Author
+khusbu 
+Cyber Security Intern @ Prodigy InfoTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
